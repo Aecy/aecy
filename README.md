@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aecy aka Mavrick</h1>
+<h1 align="center">Hi 👋, I'm Aecy</h1>
 <h3 align="center">A passionate fullstack developer from Belgium</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aecy&label=Profile%20views&color=0e75b6&style=flat" alt="aecy" /> </p>
@@ -20,7 +20,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/aecy"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="aecy" /></a><a href="https://ko-fi.com/aecym"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="aecym" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aecy&show_icons=true&locale=en&layout=compact" alt="aecy" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aecy&show_icons=true&locale=en" alt="aecy" /></p>
